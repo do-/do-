@@ -1,7 +1,8 @@
 # [XML Toolkit](https://github.com/do-/node-xml-toolkit)
 XML parser, marshaller, pretty printer, SOAP adapter
 
-# [`doix`](https://github.com/do-/node-doix): yet another framefork featuring:
+# [`doix`](https://github.com/do-/node-doix) framework
+yet another minimalistic general purpose middleware platform featuring:
 * Relational [DB](https://github.com/do-/node-doix-db) backends for [PostgreSQL](https://github.com/do-/node-doix-db-postgresql), [ClickHouse](https://github.com/do-/node-doix-db-clickhouse);
 * [HTTP](https://github.com/do-/node-doix-http) binding with [JWT](https://github.com/do-/node-doix-http-cookie-jwt), [Redis](https://github.com/do-/node-doix-http-cookie-redis) authentication plugins;
 * plugins for [DevExtreme](https://github.com/do-/node-doix-devextreme), [w2ui](https://github.com/do-/node-doix-w2ui) Web UI libraries.
