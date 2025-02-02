@@ -1,4 +1,3 @@
-Here is a reference on my relevant node.js libraries
 # [XML Toolkit](https://github.com/do-/node-xml-toolkit)
 XML parser, marshaller, pretty printer, SOAP adapter
 
