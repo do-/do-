@@ -35,9 +35,6 @@ Some hand made finite atomata, replacing trivial RegExps for the sake of perform
 ## XLSX
 * [xlsxtream](https://github.com/do-/xlsxtream) Reading XLSX spreadsheets in streaming mode with limited memory 
 
-## ZIP
-* [unzippo](https://github.com/do-/unzippo) One-liner approach to safely read streams from zip files
-
 <!--
 **do-/do-** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
