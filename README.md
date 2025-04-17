@@ -7,7 +7,7 @@ yet another minimalistic general purpose middleware platform featuring:
 * [HTTP](https://github.com/do-/node-doix-http) binding with [JWT](https://github.com/do-/node-doix-http-cookie-jwt), [Redis](https://github.com/do-/node-doix-http-cookie-redis) authentication plugins;
 * plugins for [DevExtreme](https://github.com/do-/node-doix-devextreme), [w2ui](https://github.com/do-/node-doix-w2ui) Web UI libraries.
 
-## Some related modules to be used with or without `doix`:
+## Some related general purpose modules:
 ### File System
 * [dir-list](https://github.com/do-/node-dir-list) Iterating over file paths in a given set of directories, lambda filters
 * [file-path-maker](https://github.com/do-/node-file-path-maker) organize incoming files in a predictably growing hierarchy
