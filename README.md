@@ -13,6 +13,7 @@ yet another minimalistic general purpose middleware platform featuring:
 * [file-path-maker](https://github.com/do-/node-file-path-maker) organize incoming files in a predictably growing hierarchy
 
 ### Logging
+* [cluster-to-winston](https://github.com/do-/node-cluster-to-winston) Winston extension for Node.js [cluster](https://nodejs.org/docs/latest/api/cluster.html)
 * [events-to-winston](https://github.com/do-/node-events-to-winston) Observing an EventEmitter, logging to winston
 
 ### Security
