@@ -3,7 +3,7 @@ XML parser, marshaller, pretty printer, SOAP adapter
 * [xlsxtream](https://github.com/do-/xlsxtream) Reading XLSX spreadsheets in streaming mode with limited memory 
 
 # [`doix`](https://github.com/do-/node-doix) framework
-yet another minimalistic general purpose middleware platform featuring:
+yet another middleware platform:
 * Relational [DB](https://github.com/do-/node-doix-db) backends for [PostgreSQL](https://github.com/do-/node-doix-db-postgresql), [ClickHouse](https://github.com/do-/node-doix-db-clickhouse);
 * [HTTP](https://github.com/do-/node-doix-http) binding with [JWT](https://github.com/do-/node-doix-http-cookie-jwt), [Redis](https://github.com/do-/node-doix-http-cookie-redis) authentication plugins;
 * plugins for [DevExtreme](https://github.com/do-/node-doix-devextreme), [w2ui](https://github.com/do-/node-doix-w2ui) Web UI libraries.
