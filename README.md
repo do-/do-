@@ -28,7 +28,7 @@ yet another middleware platform:
 * [pwd-shaker](https://github.com/do-/node-pwd-shaker) password hashing with salt, pepper
 
 ### String manipulation
-Some hand made finite atomata, replacing trivial RegExps for the sake of performance:
+Some hand made FSMs, replacing trivial RegExps for the sake of performance:
 * [string-escape-map](https://github.com/do-/node-string-escape-map) Escape a given map of special characters
 * [string-is-uuid](https://github.com/do-/node-string-is-uuid) RegExp free UUID validator
 * [string-normalize-space](https://github.com/do-/node-string-normalize-space) XPath 1.0 normalize-space analog
